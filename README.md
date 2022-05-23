@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arczmander1
 - 👀 I’m interested in: JavaScript
 - 🌱 I’m currently learning: Frontend & Backend in JS
-- 📫 The best way to reach me is via email: arkadiusz.martenka@gmial.com
+- 📫 The best way to reach me is via email: arkadiusz.martenka@gmail.com
 
 <!---
 Arczmander1/Arczmander1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
